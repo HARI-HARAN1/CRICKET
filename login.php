@@ -4,8 +4,8 @@ session_start();
 
 // Database connection details
 $servername = "localhost";  // Replace with your MySQL server host
-$username = "hari";  // Replace with your MySQL username
-$password = "hari@1234";  // Replace with your MySQL password
+$username = "";  // Replace with your MySQL username
+$password = "";  // Replace with your MySQL password
 $dbname = "cricket";  // Replace with your MySQL database name
 
 // Create connection
